@@ -1,0 +1,8 @@
+{
+  "/profile/[section]/page": "app/profile/[section]/page.js",
+  "/seat-selection/page": "app/seat-selection/page.js",
+  "/page": "app/page.js",
+  "/bus-listings/page": "app/bus-listings/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/signup/page": "app/signup/page.js"
+}
